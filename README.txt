@@ -43,5 +43,8 @@
    17.3 as these are also apps we need to add it into settings file 'installed_apps'
    17.4 add url of api
    17.5 inside api create views.py and write it from scratch
-   17.6 create home() in views and add it in url 
+   17.6 create home() in views and add it in url
+
+18 Setting up category model and admin
+   18.1 
 
